@@ -10,4 +10,4 @@ View mock-up on Figma [here](https://www.figma.com/file/JCMqEbCMoE5K5aK71Q9hZM/R
 
 ---
 
-![](images/travel-california-screenshot.png)
+![](images/travel-california-app-screenshot.png)
